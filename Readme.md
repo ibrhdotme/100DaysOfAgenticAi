@@ -10,12 +10,15 @@ I invite you to join me! To participate:
 
 ## What I Want to Explore
 
+- 💻 [Agent.ai](https://agent.ai/)
+- 🧠 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 - 🤖 [CrewAI](https://github.com/crewAIInc/crewAI)
+- 🔎 [Composio](https://docs.composio.dev/introduction/intro/ov
+- 🐐 [LammaIndex](https://www.llamaindex.ai/)
 - 🌐 [LangGraph](https://github.com/langchain-ai/langgraph)
 - ⚙️ [n8n](https://github.com/n8n-io/n8n)
-- 🧠 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 - 📊 [Phidata](https://github.com/phidatahq/phidata)
-- 💻 [Agent.ai](https://agent.ai/)
+- 🔩 [Tool Use - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
 - 👀 Anything else that catches my interest along the way
 
 ## What I Want to Build
@@ -25,6 +28,10 @@ I invite you to join me! To participate:
 - 🌐 **Domain Name Researcher**: Suggest domain names, check availability, recommend alternative TLDs, and find the best prices.
 - 👀 Anything else that looks interesting along the way.
 
-## Progress
+## What I Learned / Built
 
-- Day 01: 
+- Day 01: [Setting up & Hacker News Throwback Machine](./2025/2025-01/2025-01-01/Readme.md)
+    - 🧠 Learned to locally setup n8n via docker and connect it to external LLMs (Gemini)
+    - ✅ Created and Published a workflow to See What Was Hot on (HN) This Day, Every Year!
+    - 🔗 [Link to template on n8n website](https://n8n.io/workflows/2688-hacker-news-throwback-machine-see-what-was-hot-on-this-day-every-year/)
+- Day 02: 
