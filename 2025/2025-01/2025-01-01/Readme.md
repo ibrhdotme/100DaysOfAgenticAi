@@ -24,7 +24,7 @@ Error code: Wsl/WSL_E_WSL_OPTIONAL_COMPONENT_REQUIRED
 : exit status 0xffffffff
 ```
 
-![Docker Error Window Popup](DockerIssue.png)
+![Docker Error Window Popup](dockerIssue.png)
 
 
 This error message, while verbose, pointed to a specific missing component. The solution was straightforward, and I ran the command provided in the log:

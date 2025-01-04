@@ -28,10 +28,13 @@ I invite you to join me! To participate:
 - 🌐 **Domain Name Researcher**: Suggest domain names, check availability, recommend alternative TLDs, and find the best prices.
 - 👀 Anything else that looks interesting along the way.
 
-## What I Learned / Built
+## What I Learned 🧠 // Built ✅ // Links 🔗
 
 - Day 01: [Setting up & Hacker News Throwback Machine](./2025/2025-01/2025-01-01/Readme.md)
     - 🧠 Learned to locally setup n8n via docker and connect it to external LLMs (Gemini)
     - ✅ Created and Published a workflow to See What Was Hot on (HN) This Day, Every Year!
-    - 🔗 [Link to template on n8n website](https://n8n.io/workflows/2688-hacker-news-throwback-machine-see-what-was-hot-on-this-day-every-year/)
-- Day 02: 
+    - 🔗 [Link to template published on n8n website](https://n8n.io/workflows/2688-hacker-news-throwback-machine-see-what-was-hot-on-this-day-every-year/)
+- Day 02: [Talking to Gemini, Web Dev with OpenHands](./2025/2025-01/2025-01-02/Readme.md)
+    - 🧠 Ways of working with Gemini Live, Working with first true Ai Agent, Claude credits are expensive.
+    - ✅ Created Windows XP style simple website using OpenHands<>Claude Sonnet 3.5
+    - 🔗 [Link to agent coded PR](https://github.com/ibrhdotme/ibrh.me/pull/1) & [Link to website when created](https://web.archive.org/web/20250103204344/https://ibrh.me/)
