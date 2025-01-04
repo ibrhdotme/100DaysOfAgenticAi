@@ -31,3 +31,7 @@ I invite you to join me! To participate:
     - 🧠 Ways of working with Gemini Live, Working with first true Ai Agent, Claude credits are expensive.
     - ✅ Created Windows XP style simple website using OpenHands<>Claude Sonnet 3.5
     - 🔗 [Link to agent coded PR](https://github.com/ibrhdotme/ibrh.me/pull/1) & [Link to website when created](https://web.archive.org/web/20250103204344/https://ibrh.me/)
+- **Day 03**: [Learn Anything From HackerNews](./2025/2025-01/2025-01-03/Readme.md)
+    - 🧠 
+    - ✅ 
+    - 🔗 
