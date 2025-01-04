@@ -13,7 +13,7 @@ I invite you to join me! To participate:
 - 💻 [Agent.ai](https://agent.ai/)
 - 🧠 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 - 🤖 [CrewAI](https://github.com/crewAIInc/crewAI)
-- 🔎 [Composio](https://docs.composio.dev/introduction/intro/ov
+- 🔎 [Composio](https://docs.composio.dev/introduction/intro/ov)
 - 🐐 [LammaIndex](https://www.llamaindex.ai/)
 - 🌐 [LangGraph](https://github.com/langchain-ai/langgraph)
 - ⚙️ [n8n](https://github.com/n8n-io/n8n)
@@ -21,20 +21,13 @@ I invite you to join me! To participate:
 - 🔩 [Tool Use - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
 - 👀 Anything else that catches my interest along the way
 
-## What I Want to Build
-
-- 📝 **Auto-Generated Podcast Show Notes**: Generate transcripts, timestamps, topic clouds, and links to media mentioned in the podcast.
-- 📩 **Email Inbox Newsletter Organizer**: Scan email inboxes and organize subscribed newsletters into topics or labels.
-- 🌐 **Domain Name Researcher**: Suggest domain names, check availability, recommend alternative TLDs, and find the best prices.
-- 👀 Anything else that looks interesting along the way.
-
 ## What I Learned 🧠 // Built ✅ // Links 🔗
 
-- Day 01: [Setting up & Hacker News Throwback Machine](./2025/2025-01/2025-01-01/Readme.md)
+- **Day 01**: [Setting up & Hacker News Throwback Machine](./2025/2025-01/2025-01-01/Readme.md)
     - 🧠 Learned to locally setup n8n via docker and connect it to external LLMs (Gemini)
     - ✅ Created and Published a workflow to See What Was Hot on (HN) This Day, Every Year!
     - 🔗 [Link to template published on n8n website](https://n8n.io/workflows/2688-hacker-news-throwback-machine-see-what-was-hot-on-this-day-every-year/)
-- Day 02: [Talking to Gemini, Web Dev with OpenHands](./2025/2025-01/2025-01-02/Readme.md)
+- **Day 02**: [Talking to Gemini, Web Dev with OpenHands](./2025/2025-01/2025-01-02/Readme.md)
     - 🧠 Ways of working with Gemini Live, Working with first true Ai Agent, Claude credits are expensive.
     - ✅ Created Windows XP style simple website using OpenHands<>Claude Sonnet 3.5
     - 🔗 [Link to agent coded PR](https://github.com/ibrhdotme/ibrh.me/pull/1) & [Link to website when created](https://web.archive.org/web/20250103204344/https://ibrh.me/)
