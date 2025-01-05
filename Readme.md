@@ -39,7 +39,7 @@ I invite you to join me! To participate:
     - 🧠 Phidata reading up, Locally setup, and running example agents
     - ✅ Got Working with basic multi agent setup with web-browser agent and financial-analysis agent
     - 🔗 Code in [phidataCode.py](./2025/2025-01/2025-01-04/phidataCode.py)
-- **Day 05**: 
-    - 🧠 
-    - ✅ 
-    - 🔗 
+- **Day 05**: [Ai Agents in LangGraph](./2025/2025-01/2025-01-05/Readme.md)
+    - 🧠 Enrolled in course; Watched through first two videos 
+    - ✅ Started a course on LangGraph
+    - 🔗 [Course on DeepLearning.ai platform](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
