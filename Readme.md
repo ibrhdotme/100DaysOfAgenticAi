@@ -32,6 +32,7 @@ I invite you to join me! To participate:
     - ✅ Created Windows XP style simple website using OpenHands<>Claude Sonnet 3.5
     - 🔗 [Link to agent coded PR](https://github.com/ibrhdotme/ibrh.me/pull/1) & [Link to website when created](https://web.archive.org/web/20250103204344/https://ibrh.me/)
 - **Day 03**: [Learn Anything From HackerNews](./2025/2025-01/2025-01-03/Readme.md)
-    - 🧠 
-    - ✅ 
+    - 🧠 Sending emails via SMTP, couldn't figure out how to send data back via same n8n form
+    - ✅ Create Resource recommendation engine to learn anything via HN 
     - 🔗 
+    
