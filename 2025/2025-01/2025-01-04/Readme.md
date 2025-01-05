@@ -95,4 +95,6 @@ Code is along with some comments is saved in [phidataCode.py](phidataCode.py)
 
 ## Next Steps
 
-I want to connect it to [more tools](https://docs.phidata.com/tools/introduction) and also try out the more of these [example agents](https://docs.phidata.com/examples/introduction)
+I also tried setting up the [AgenticUi](https://docs.phidata.com/agent-ui), I got the UI working but wasn't able to perform any actions. I didn't get enough time to look into the errors and try to fix them. Will try to get this up and running next.
+
+I also want to connect it to [more tools](https://docs.phidata.com/tools/introduction) and also try out the more of these [example agents](https://docs.phidata.com/examples/introduction)

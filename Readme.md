@@ -36,8 +36,8 @@ I invite you to join me! To participate:
     - ✅ Create Resource recommendation engine to learn anything via HN 
     - 🔗 Submitted for template review, will add link after it's approved 
 - **Day 04**: [Getting Started with Phidata](./2025/2025-01/2025-01-04/Readme.md)
-    - 🧠 Locally setup Phidata, and running example agents
-    - ✅ Working with basic multi agent setup with web-browser agent and financial-analysis agent
+    - 🧠 Phidata reading up, Locally setup, and running example agents
+    - ✅ Got Working with basic multi agent setup with web-browser agent and financial-analysis agent
     - 🔗 Code in [phidataCode.py](./2025/2025-01/2025-01-04/phidataCode.py)
 - **Day 05**: 
     - 🧠 
