@@ -8,21 +8,6 @@ I invite you to join me! To participate:
 - Make some progress every day, no matter how small. [#NonZeroDays](https://old.reddit.com/r/getdisciplined/comments/1q96b5/deleted_by_user/cdah4af/#:~:text=There%20are%20no%20more%20zero%20days.)
 - Share your progress daily using the #100DaysOfAgenticAI hashtag.
 
-## What I Want to Explore
-
-- 💻 [Agent.ai](https://agent.ai/)
-- 🧠 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-- 🤖 [CrewAI](https://github.com/crewAIInc/crewAI)
-- 🔎 [Composio](https://docs.composio.dev/introduction/intro/ov)
-- 🔳 [Inferable](https://www.inferable.ai/)
-- 🐐 [LammaIndex](https://www.llamaindex.ai/)
-- 🌐 [LangGraph](https://github.com/langchain-ai/langgraph)
-- ⚙️ [n8n](https://github.com/n8n-io/n8n)
-- 0️⃣ [o1 device](https://github.com/OpenInterpreter/01)
-- 📊 [Phidata](https://github.com/phidatahq/phidata)
-- 🔩 [Tool Use - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
-- 👀 Anything else that catches my interest along the way
-
 ## What I Learned 🧠 // Built ✅ // Links 🔗
 
 - **Day 01**: [Setting up & Hacker News Throwback Machine](./2025/2025-01/2025-01-01/Readme.md)
@@ -57,3 +42,19 @@ I invite you to join me! To participate:
     - 🧠 
     - ✅ 
     - 🔗 
+
+## What I Want to Explore
+
+- 💻 [Agent.ai](https://agent.ai/)
+- 🧠 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+- 🤖 [CrewAI](https://github.com/crewAIInc/crewAI)
+- 🔎 [Composio](https://docs.composio.dev/introduction/intro/ov)
+- ➰ [Gumloop](https://www.gumloop.com/)
+- 🔳 [Inferable](https://www.inferable.ai/)
+- 🐐 [LammaIndex](https://www.llamaindex.ai/)
+- 🌐 [LangGraph](https://github.com/langchain-ai/langgraph)
+- ⚙️ [n8n](https://github.com/n8n-io/n8n)
+- 0️⃣ [o1 device](https://github.com/OpenInterpreter/01)
+- 📊 [Phidata](https://github.com/phidatahq/phidata)
+- 🔩 [Tool Use - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
+- 👀 Anything else that catches my interest along the way
