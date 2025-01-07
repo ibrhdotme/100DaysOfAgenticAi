@@ -18,6 +18,7 @@ I invite you to join me! To participate:
 - 🐐 [LammaIndex](https://www.llamaindex.ai/)
 - 🌐 [LangGraph](https://github.com/langchain-ai/langgraph)
 - ⚙️ [n8n](https://github.com/n8n-io/n8n)
+- 0️⃣ [o1 device](https://github.com/OpenInterpreter/01)
 - 📊 [Phidata](https://github.com/phidatahq/phidata)
 - 🔩 [Tool Use - Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/tool-use)
 - 👀 Anything else that catches my interest along the way
