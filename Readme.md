@@ -34,7 +34,7 @@ I invite you to join me! To participate:
 - **Day 03**: [Learn Anything From HackerNews](./2025/2025-01/2025-01-03/Readme.md)
     - 🧠 Sending emails via SMTP, couldn't figure out how to send data back via same n8n form
     - ✅ Create Resource recommendation engine to learn anything via HN 
-    - 🔗 Submitted for template review, will add link after it's approved 
+    - 🔗 [Link to workflow published on n8n website](https://n8n.io/workflows/2697-learn-anything-from-hn-get-top-resource-recommendations-from-hacker-news/) 
 - **Day 04**: [Getting Started with Phidata](./2025/2025-01/2025-01-04/Readme.md)
     - 🧠 Phidata reading up, Locally setup, and running example agents
     - ✅ Got Working with basic multi agent setup with web-browser agent and financial-analysis agent
