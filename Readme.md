@@ -43,3 +43,15 @@ I invite you to join me! To participate:
     - 🧠 Enrolled in course; Watched through first two videos 
     - ✅ Started a course on LangGraph
     - 🔗 [Course on DeepLearning.ai platform](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+- **Day 06**: [Ai Agents in LangGraph](./2025/2025-01/2025-01-06/Readme.md)
+    - 🧠 Trying to understand the given code
+    - ✅ Just re-running it in given jupyter notebooks
+    - 🔗 [Course Notes here](./Courses/DeepLearning/AI%20Agents%20in%20LangGraph/Redme.md)
+- **Day 07**: [Ai Agents in LangGraph](./2025/2025-01/2025-01-06/Readme.md)
+    - 🧠 Finshing up the course
+    - ✅ Rewatched everything from start and trying given code examples
+    - 🔗 [Course Notes here](./Courses/DeepLearning/AI%20Agents%20in%20LangGraph/Redme.md)
+- **Day 08**: 
+    - 🧠 
+    - ✅ 
+    - 🔗 
