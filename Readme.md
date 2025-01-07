@@ -14,6 +14,7 @@ I invite you to join me! To participate:
 - 🧠 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 - 🤖 [CrewAI](https://github.com/crewAIInc/crewAI)
 - 🔎 [Composio](https://docs.composio.dev/introduction/intro/ov)
+- 🔳 [Inferable](https://www.inferable.ai/)
 - 🐐 [LammaIndex](https://www.llamaindex.ai/)
 - 🌐 [LangGraph](https://github.com/langchain-ai/langgraph)
 - ⚙️ [n8n](https://github.com/n8n-io/n8n)
