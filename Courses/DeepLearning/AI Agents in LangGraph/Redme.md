@@ -5,7 +5,7 @@
 - 👥 Harrison Chase (LangChain) & Rotem Weiss (Tavily)
 - 📅 05-07 Jan, 2025
 
-## Lesson 01: Introduction 
+## Lesson 00: Introduction 
 
 - Tool use has been imporved a lot since last year
 - Agentic workflow (design patterns)
@@ -26,7 +26,7 @@
     - **Recieve Human input** to guide at critical points
     - **Persistence** to store current state of information
 
-## Lesson 02: Build an Agent from Scratch
+## Lesson 01: Build an Agent from Scratch
 
 - Creating a simple pythonic agent class
 
@@ -227,7 +227,7 @@ query(question)
 # Answer: The average score of the student group consisting of Om, Jay, and Ram is approximately 66.67.
 ```
 
-## Lession 03: LangGraph Components
+## Lession 02: LangGraph Components
 
 ```mermaid
 graph TD
@@ -241,14 +241,14 @@ graph TD
     F --> B;
 ```
 
-## Lesson 04: Agentic Search Tools
+## Lesson 03: Agentic Search Tools
 
-## Lesson 05: Persistence and Streaming
+## Lesson 04: Persistence and Streaming
 
-## Lesson 06: Human in the loop
+## Lesson 05: Human in the loop
 
-## Lesson 07: Essay Writer
+## Lesson 06: Essay Writer
 
-## Lesson 08: LangChain Resources
+## Lesson 07: LangChain Resources
 
-## Conclusion
+## Lesson 08: Conclusion
