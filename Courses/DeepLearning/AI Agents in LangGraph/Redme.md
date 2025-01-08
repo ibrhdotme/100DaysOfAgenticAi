@@ -235,10 +235,9 @@ graph TD
     B --> C(LLM);
     C --> D[action callout];
     D --> E{action?};
-    E -- return --> F[Obs: 37];
+    E -- return --> H[Obs: 37];
     E -- action --> G[Obs: 37];
     G --> B;
-    F --> B;
 ```
 
 ## Lesson 03: Agentic Search Tools
