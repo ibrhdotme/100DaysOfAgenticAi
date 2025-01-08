@@ -229,6 +229,8 @@ query(question)
 
 ## Lession 02: LangGraph Components
 
+Code in this file.
+
 ```mermaid
 graph TD
     A[User] --> B{Prompt};
@@ -240,9 +242,35 @@ graph TD
     G --> B;
 ```
 
+- LangGraph core feature is describing and orchestrating control flow 
+- Allows creation of cyclic graphs with built in persistence
+- Agent state is accessible to all parts of graph
+- Can be persisted, be able to resume anytime (timetravel)
+
+![LangGraphComponents](image-5.png)
+
+- Working with LangGraph
+    - Define agent
+    - Add nodes to the graph
+    - Connect via edges
+    - Set graph entry point
+    - Set the conditional nodes
+    - Define tools and bind them to model
+
+- Parallel tool / function calling 
+    - Runs same task with different paramaters (finding weather for cities)
+    - Saves additional overhead of llm being called after each finished tool call
+
+
 ## Lesson 03: Agentic Search Tools
 
+- Agentic search tools provides a much better interface then using regular search / scraping
+- The response can directly be used by llm without any further processing
+
+
 ## Lesson 04: Persistence and Streaming
+
+
 
 ## Lesson 05: Human in the loop
 
