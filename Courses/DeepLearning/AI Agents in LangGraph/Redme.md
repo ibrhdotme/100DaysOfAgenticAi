@@ -257,28 +257,28 @@ graph TD
 
 ## Lesson 08: Conclusions
 
-![MultiAgent](image.png)
+![MultiAgent](MultiAgent.png)
 - [MultiAgent Architecture](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/multi-agent-collaboration.ipynb)
     - agents work with the same shared state
     - diff agents could could call diff tools 
     - state is passed around 
 
-![Supervisor](image-1.png)
+![Supervisor](Supervisor.png)
 - [Supervisor Architecture](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/agent_supervisor.ipynb)
     - Supervisor will call sub-agents
     - State for sub-agents could differ
     - Supervisor decides coordination, routing, and passing input
 
-![FlowEngineering](image-3.png)
+![FlowEngineering](FlowEngineering.png)
 - [Flow Engineering](https://arxiv.org/abs/2401.08500)
     - Nodes are like a pipeline until a point and then with a few loop ones
     - "What's the right information flow for agents to think and take action?"
 
-![PlanExecute](image-2.png)
+![PlanExecute](PlanExecute.png)
 - [Plan and Execute Flow](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/plan-and-execute/plan-and-execute.ipynb)
     - Come up with multi step plan and execute one item a time
     - after accomplishing partiular task, can revise plan too
 
-![AgentTreeSearch](image-4.png)
+![AgentTreeSearch](AgentTreeSearch.png)
 - [Language Agent Tree Search](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/lats/lats.ipynb)
     - Using persistence to go back and forth b/w states
