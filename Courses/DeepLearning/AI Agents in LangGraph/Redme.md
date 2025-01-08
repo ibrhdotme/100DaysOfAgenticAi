@@ -281,5 +281,5 @@ graph TD
     - after accomplishing partiular task, can revise plan too
 
 ![AgentTreeSearch](image-4.png)
-- Language Agent Tree Search
+- [Language Agent Tree Search](https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/lats/lats.ipynb)
     - Using persistence to go back and forth b/w states
