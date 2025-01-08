@@ -294,6 +294,24 @@ Code in this file.
 
 ## Lesson 06: Essay Writer
 
+```mermaid
+
+graph TD
+    start[start] --> planner[planner]
+    planner --> research_plan[research_plan]
+    research_plan --> generate[generate]
+    generate -- ... --> _end[_end]
+    generate -- ... --> reflect[reflect]
+    reflect --> research_critique[research_critique]
+    research_critique --> generate
+
+```
+
+- Plan, Write, Reflect, Research, Critique etc
+- Creating nodes for each of these subtasks also custom prompt
+- Build graph with these nodes and add edges
+
+
 ## Lesson 07: LangChain Resources
 
 - LangChain: [Docs](https://python.langchain.com/docs/introduction/) | [Github](https://github.com/langchain-ai/langchain) 
