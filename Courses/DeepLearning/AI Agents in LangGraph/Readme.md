@@ -28,7 +28,7 @@
 
 ## Lesson 01: Build an Agent from Scratch
 
-Code in this file.
+[Code in this file.](./Lesson_1_Student.ipynb)
 
 - Creating a simple pythonic agent class
 
@@ -231,7 +231,7 @@ query(question)
 
 ## Lession 02: LangGraph Components
 
-Code in this file.
+[Code in this file.](./Lesson_1_Student.ipynb)
 
 ```mermaid
 graph TD
@@ -266,7 +266,7 @@ graph TD
 
 ## Lesson 03: Agentic Search Tools
 
-Code in this file.
+[Code in this file.](./Lesson_3_Student.ipynb)
 
 - Agentic search tools provides a much better interface then using regular search / scraping
 - The response can directly be used by llm without any further processing
@@ -274,7 +274,7 @@ Code in this file.
 
 ## Lesson 04: Persistence and Streaming
 
-Code in this file.
+[Code in this file.](./Lesson_4_Student.ipynb)
 
 - Use `thread_id` for persistence
 - This adds context for messages, So we can can be a bit ambigious (this, that, first, before ... etc)
@@ -283,7 +283,7 @@ Code in this file.
 
 ## Lesson 05: Human in the loop
 
-Code in this file.
+[Code in this file.](./Lesson_5_Student.ipynb)
 
 - We need human in the loop to allow / restrict certain tool actions in right context
 - While compling the graph, also add a `interrupt_before` along with `checkpointer`
@@ -293,6 +293,8 @@ Code in this file.
 - This results in branching off from the original and helps keep history tree
 
 ## Lesson 06: Essay Writer
+
+[Code in this file.](./Lesson_6_Student.ipynb)
 
 ```mermaid
 
