@@ -1,6 +1,6 @@
 # 100 Days of Agentic AI
 
-Hey 👋! I'm [Ibrahim](https://x.com/ibrhdotme). I'm fascinated by Autonomous Systems. Starting January 1st, 2025, I’m dedicating time every day to learn more about this exciting field. 
+Hey 👋! I'm [Ibrahim](https://ibrh.me). I'm fascinated by Autonomous Systems. Starting January 1st, 2025, I’m dedicating time every day to learn more about this exciting field. 
 
 Inspired by #100DaysOfCode, I’ve started #100DaysOfAgenticAI to stay accountable by building, experimenting, failing, and learning in public. I’ll document my progress along the way.
 
