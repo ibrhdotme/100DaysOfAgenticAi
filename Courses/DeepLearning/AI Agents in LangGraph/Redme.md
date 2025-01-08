@@ -251,4 +251,9 @@ graph TD
 
 ## Lesson 07: LangChain Resources
 
-## Lesson 08: Conclusion
+- LangChain: [Docs](https://python.langchain.com/docs/introduction/) | [Github](https://github.com/langchain-ai/langchain) 
+- LangGraph: [Docs](https://langchain-ai.github.io/langgraph/) | [Github](https://github.com/langchain-ai/langgraph)
+- Courses: [DeepLearning](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bpartnership%5D%5B0%5D=LangChain) | [LangChain Academy](https://academy.langchain.com/courses/intro-to-langgraph) 
+- [PromptHub by LangChain](https://smith.langchain.com/hub)
+
+## Lesson 08: Conclusions
