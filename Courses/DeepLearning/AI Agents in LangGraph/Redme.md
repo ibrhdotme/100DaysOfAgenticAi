@@ -249,7 +249,7 @@ graph TD
 - Agent state is accessible to all parts of graph
 - Can be persisted, be able to resume anytime (timetravel)
 
-![LangGraphComponents](image-5.png)
+![LangGraphComponents](LangGraphComponents.png)
 
 - Working with LangGraph
     - Define agent
