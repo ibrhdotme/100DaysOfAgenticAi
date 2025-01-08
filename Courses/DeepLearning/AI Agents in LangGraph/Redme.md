@@ -270,7 +270,10 @@ graph TD
 
 ## Lesson 04: Persistence and Streaming
 
-
+- Use `thread_id` for persistence
+- This adds context for messages, So we can can be a bit ambigious (this, that, first, before ... etc)
+- External databases can also be used to store this persistent state memory
+- Streaming allows to directly print to user while its getting data / processing it
 
 ## Lesson 05: Human in the loop
 
