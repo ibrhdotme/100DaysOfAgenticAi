@@ -28,6 +28,8 @@
 
 ## Lesson 01: Build an Agent from Scratch
 
+Code in this file.
+
 - Creating a simple pythonic agent class
 
 ```python
@@ -264,11 +266,15 @@ graph TD
 
 ## Lesson 03: Agentic Search Tools
 
+Code in this file.
+
 - Agentic search tools provides a much better interface then using regular search / scraping
 - The response can directly be used by llm without any further processing
 
 
 ## Lesson 04: Persistence and Streaming
+
+Code in this file.
 
 - Use `thread_id` for persistence
 - This adds context for messages, So we can can be a bit ambigious (this, that, first, before ... etc)
@@ -276,6 +282,15 @@ graph TD
 - Streaming allows to directly print to user while its getting data / processing it
 
 ## Lesson 05: Human in the loop
+
+Code in this file.
+
+- We need human in the loop to allow / restrict certain tool actions in right context
+- While compling the graph, also add a `interrupt_before` along with `checkpointer`
+- Can be specified to only interput for certain tools
+- Timetravel is possible by accessing previous states from memory
+- This state can be modified and even updated back into the memory
+- This results in branching off from the original and helps keep history tree
 
 ## Lesson 06: Essay Writer
 
