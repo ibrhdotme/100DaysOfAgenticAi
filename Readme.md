@@ -38,10 +38,7 @@ I invite you to join me! To participate:
     - 🧠 Finshing up the course
     - ✅ Rewatched everything from start and trying given code examples
     - 🔗 [Course Notes here](./Courses/DeepLearning/AI%20Agents%20in%20LangGraph/Redme.md)
-- **Day 08**: 
-    - 🧠 
-    - ✅ 
-    - 🔗 
+- [more here](./2025/2025-01/)
 
 ## What I Want to Explore
 
