@@ -1,0 +1,1 @@
+# Devlog 12 - January 12, 2025: Reading more papers, but not sure if i understand them right
