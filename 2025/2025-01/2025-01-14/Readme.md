@@ -1,0 +1,1 @@
+some more papers and blogs from latent.space
