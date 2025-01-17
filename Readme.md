@@ -47,6 +47,7 @@ I invite you to join me! To participate:
 - 🤖 [CrewAI](https://github.com/crewAIInc/crewAI)
 - 🔎 [Composio](https://docs.composio.dev/introduction/intro/ov)
 - ➰ [Gumloop](https://www.gumloop.com/)
+- 🐱‍🏍 [Lindy.ai](https://www.lindy.ai/)
 - 🔳 [Inferable](https://www.inferable.ai/)
 - 🐐 [LammaIndex](https://www.llamaindex.ai/)
 - 🌐 [LangGraph](https://github.com/langchain-ai/langgraph)
